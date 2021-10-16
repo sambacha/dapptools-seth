@@ -1,0 +1,9 @@
+.git
+.github
+Dockerfile
+docker-compose.yml
+.env
+.tmp/
+.cache/
+build/
+dist/
